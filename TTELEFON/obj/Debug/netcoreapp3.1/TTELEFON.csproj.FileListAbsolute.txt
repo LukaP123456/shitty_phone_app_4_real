@@ -1,0 +1,66 @@
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.exe
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.deps.json
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.runtimeconfig.json
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.runtimeconfig.dev.json
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.pdb
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.csproj.AssemblyReference.cache
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.Form1.resources
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.csproj.GenerateResource.cache
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.AssemblyInfoInputs.cache
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.AssemblyInfo.cs
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.csproj.CoreCompileInputs.cache
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.csproj.CopyComplete
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.pdb
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.genruntimeconfig.cache
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.exe
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.deps.json
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.runtimeconfig.json
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\TTELEFON.pdb
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.Form1.resources
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.csproj.GenerateResource.cache
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.dll
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.pdb
+C:\Users\stani\OneDrive\Radna površina\Programming\C# - softversko injzenjerstvo\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.genruntimeconfig.cache
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.Properties.Resources.resources
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.Registracija.resources
+C:\Users\bobsa\Desktop\PROGRAMMING\C# - Softversko programiranje\TELEFON projekat\TTELEFON\obj\Debug\netcoreapp3.1\TTELEFON.Insert_model.resources
